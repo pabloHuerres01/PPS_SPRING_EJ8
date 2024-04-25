@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ciber15.com.ciber15.ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-25T15:14:23" hostname="k01-tulogin" time="1.785">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.ciber15.com.ciber15.ApplicationTests" time="1.785"/>
+  <system-out><![CDATA[17:14:18.243 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.ciber15.com.ciber15.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:14:18.591 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.ciber15.com.ciber15.Application for test class com.ciber15.com.ciber15.ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::               (v3.1.10)
+
+2024-04-25T17:14:19.522+02:00  INFO 38166 --- [    Test worker] c.ciber15.com.ciber15.ApplicationTests   : Starting ApplicationTests using Java 17.0.10 with PID 38166 (started by administrador in /home/administrador/Desktop/Spring_PPS)
+2024-04-25T17:14:19.529+02:00  INFO 38166 --- [    Test worker] c.ciber15.com.ciber15.ApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-04-25T17:14:23.787+02:00  INFO 38166 --- [    Test worker] c.ciber15.com.ciber15.ApplicationTests   : Started ApplicationTests in 4.8 seconds (process running for 8.333)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
